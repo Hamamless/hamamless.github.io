@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.hamamless.twa",
+        "sha256_cert_fingerprints": ["BD:C1:2A:C7:D9:1D:B4:9E:73:EC:92:D8:7D:2E:7D:95:B1:72:5E:05:15:43:66:F8:61:C9:1A:3B:D8:7B:24:1A"]
+      }
+    }]
